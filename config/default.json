@@ -1,0 +1,5 @@
+{
+    "mongoURI": "mongodb://localhost/inventory_system",
+    "jwtSecret": "inventory_system_secret_key"
+
+}
